@@ -39,3 +39,8 @@ This case will install lgpl-based libs to local maven repository.
 2) Run "mvn clean package -DskipTests -Prelease,lgpl -Dignite.edition=apache-ignite-lgpl" at Apache Ignite sources.
 Required libs will appear at /target/release-package/libs/optional subfolders.
 Found libs should be copied to global or project's classpath.
+
+Code Repository
+=====================
+
+ignite-example: https://gitee.com/owen-jia/ignite-examples
