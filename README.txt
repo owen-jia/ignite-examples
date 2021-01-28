@@ -43,4 +43,4 @@ Found libs should be copied to global or project's classpath.
 Code Repository
 =====================
 
-ignite-example: https://gitee.com/owen-jia/ignite-examples
+ignite-example: https://github.com/owen-jia/ignite-examples
